@@ -1,0 +1,4 @@
+.pio
+cmake-build-*/
+/logs/
+/.idea/sonarlint/
